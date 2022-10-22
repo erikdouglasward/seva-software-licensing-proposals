@@ -1,0 +1,1 @@
+# veganware promotional guidelines
