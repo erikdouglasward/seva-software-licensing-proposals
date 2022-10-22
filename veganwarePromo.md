@@ -1,5 +1,7 @@
 # veganware promotional guidelines
 The essence of vegan lifestyle and the direction that sustainability practices are going will gain benefit from these grassroots style guidelines that I am going to implement.
+## scope of promotional
+this veganware promotional guideline is a principal that applies to All of my repositories public or private on this GitHub account.
 ## GitHub sponsorship guidelines
 sponsor my GitHub and I will:
 - spend anywhere between 10 to 25% of my sponsorship revenue at local vegan businesses.
