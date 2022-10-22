@@ -1,7 +1,7 @@
 # veganware promotional guidelines
 The essence of vegan lifestyle and the direction that sustainability practices are going will gain benefit from these grassroots style guidelines that I am going to implement.
 ## GitHub sponsorship guidelines
-sponsor my GitHub and I will spend anywhere between 10 to 25% of sponsorship revenue at local vegan businesses.
+sponsor my GitHub and I will spend anywhere between 10 to 25% of my sponsorship revenue at local vegan businesses.
 ## benefits of local vegan businesses
 by using local vegan businesses to spend your money and spend your time, you are giving back to those who have given a vision of making vegan lifestyle more available in your local area.
 ## benefits of sponsoring vegan developers
