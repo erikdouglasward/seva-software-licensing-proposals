@@ -1,7 +1,11 @@
 # veganware promotional guidelines
 The essence of vegan lifestyle and the direction that sustainability practices are going will gain benefit from these grassroots style guidelines that I am going to implement.
 ## GitHub sponsorship guidelines
-sponsor my GitHub and I will spend anywhere between 10 to 25% of my sponsorship revenue at local vegan businesses.
+sponsor my GitHub and I will:
+- spend anywhere between 10 to 25% of my sponsorship revenue at local vegan businesses.
+- spend anywhere between 25 to 50% of my sponsorship revenue purchasing organic certified and sustainable produce at my local grocery store.
+- spend the remainder of the revenue on my personal, vegan, spending preferences that increase my sustainability and support my code development.
+- for every increase of decimal significant digit revenue that I receive on this GitHub sponsorship from this veganware promotion, I will reveal a certain transparency of my spending of this revenue. for example, $10 will be a 10% reveal of transparency of spending; $100 will be a 25% reveal of transparency of spending; $1,000 total will be a 50% reveal of transparency of spending; $10,000 will be a 75% reveal of transparency of spending. $100,000 will be an 80 % or more reveal of transparency of spending.
 ## benefits of local vegan businesses
 by using local vegan businesses to spend your money and spend your time, you are giving back to those who have given a vision of making vegan lifestyle more available in your local area.
 ## benefits of sponsoring vegan developers
