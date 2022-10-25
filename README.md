@@ -8,3 +8,4 @@ I replaced the LCD screen by creating a small pocket using tape.
 inside that pocket, I put a step by step guide on how to press the flip phone buttons for basic phone operation.
 these austerities helped me to ground my understanding of what it takes to be at the most rudimentary understanding of what will be required to progress the sustainability movement.
 Seattle is a great city for utilizing austerities and moving towards sustainable practices like this.
+at that time, I went vegan and vegetarian.
