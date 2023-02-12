@@ -1,4 +1,11 @@
-# veganware
+# sevaware
+
+## Needs to be translated into sevaware from veganware
+
+Issue created in sevaware repository
+
+## Forked from Veganware
+
 software practices and licensing practices that follow the principles of sustainability and vegan lifestyle. I have experience living in the northwestern parts of the United States. I'm very excited to bring Grass Roots, sustainable and ethical style principles to vegan developing.
 ## EeshvarDasIKCM experience in grassroots sustainability using austerity and tolerance.
 when I was living in Seattle between the years 2005 and 2010, I depleted my use of machines down to public transportation, kitchen appliances, apartment lighting, and wall outlets that were largely used for operating my electronic music equipment.
