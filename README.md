@@ -6,7 +6,7 @@ Main Issue with this repository
 
 ### vegan-software-licensing-proposals
 
-## Forked from -software-licensing-proposals
+## copied from vegan-software-licensing-proposals last year
 
 software practices and licensing practices that follow the principles of sustainability and Krishna seva lifestyle. I have experience living the life of being a devotee of Krishna. I'm very excited to be constantly evolving new concepts in utilizing software development that is meant for spiritual purposes following sustainable and ethical style principles.
 
