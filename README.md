@@ -8,7 +8,8 @@ Main Issue with this repository
 
 ## copied from vegan-software-licensing-proposals last year
 
-software practices and licensing practices that follow the principles of sustainability and Krishna seva lifestyle. I have experience living the life of being a devotee of Krishna. I'm very excited to be constantly evolving new concepts in utilizing software development that is meant for spiritual purposes following sustainable and ethical style principles.
+<p>software practices and licensing practices that follow the principles of sustainability and Krishna seva lifestyle. I have experience living the life of being a devotee of Krishna. I'm very excited to be constantly evolving new concepts in utilizing software development that is meant for spiritual purposes following sustainable and ethical style principles.</p>
+<p>software practices and licensing practices that follow the principles of Vedic devitional lifestyle. I have experience practicing as a Gaudiya Vaishnava. I'm very excited to bring Vedic devotional style principles to developing in the mode of Vishnu Seva.</p>
 
 ## EeshvarDasIKCM experience in grassroots sustainability using austerity and tolerance.
 when I was living in Seattle between the years 2005 and 2010, I depleted my use of machines down to public transportation, kitchen appliances, apartment lighting, and wall outlets that were largely used for operating my electronic music equipment.
